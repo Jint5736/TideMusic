@@ -1,5 +1,5 @@
 <template>
-  <div class="discoverMusic">1</div>
+  <div class="discoverMusic"><input type="text"></div>
 </template>
 
 <script>
